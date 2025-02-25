@@ -122,17 +122,15 @@ body{
 }
 
 @media (max-width: 1200px) {
-    .apresentação{
+    .conteiner{
         flex-direction: column-reverse;
+        padding: 5%;
     }
     .cabecalho{
         padding: 10%;
     }
     .cabecalho__menu{
         justify-content: center;
-    }
-    .conteiner{
-        padding: 5%;
     }
     .conteiner__conteudo{
         width: auto;
